@@ -84,7 +84,7 @@ content:
           <p>이제와서 학점을 복구하고 있긴 하지만 대회나 학교경험이 없어서 조금 아쉽습니다. </p>
           <p>뒤늦게라도 조금 정신차리고 학교생활에 임하고 있습니다. <p>
         description: | # this will include new lines to allow paragraphs</p>
-          Description of role
+            부족하지만 최대한 열심히 해보겠습니다.!
   - title: Education
     layout: list
     content:
