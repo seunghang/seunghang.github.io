@@ -38,7 +38,7 @@ additional_links:
 
 # About Section
 # about_title: About Me(Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg.jpg)
+about_profile_image: Directory of profile image (eg. https://github.com/account.jpg)
 about_content: | # this will include new lines to allow paragraphs
   <p>저는 빅데이터학과 17학번 이승행입니다. </p>
   <p>저는 서울 강북구에서 살고 있습니다. </p>
