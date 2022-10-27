@@ -78,7 +78,9 @@ content:
         sub_title: BigData
         caption:  2022
         quote: >
-          Short description of the company (optional)
+          <p>맨처음 17년도에 한림대학교에 입학하여 컴퓨터 공학과에 입학하였습니다. 1학년때 너무 성급하게 놀기도 했고 학교생활을 못한게 후회되서 </p>
+          <p>2학년에 군입대를 하여 20년도에 제대하고 롯데리아에서 알바를 좀하다가 21년도부터 다시 재학중입니다. 이제와서 학점을 복구하고 있긴 하지만</p>
+          <p>대회나 학교경험이 없어서 조금 아쉽습니다. 뒤늦게라도 조금 정신차리고 학교생활에 임하고 있습니다. <p>
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
