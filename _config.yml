@@ -70,32 +70,22 @@ content:
           
           <p>  또한 이번 오픈소스 프로젝트때 간단하게 웹디자인을 해보려고 합니다.</p>
           <p>  자신은 없지만 제 수준에 맞게 노력해서 시도해보려고 합니다.</p>
-  - title: Experience
+
+  - title: Education
     layout: list
     content:
-      - layout: right
+      - layout: top-right
         title: Hallym University
         sub_title: BigData
-        caption:  2022
+        caption: 2022
         quote: >
           <p>맨처음 17년도에 한림대학교에 입학하여 컴퓨터 공학과에 입학하였습니다. </p>
           <p>1학년때 너무 성급하게 놀기도 했고 학교생활을 못한게 후회되서 </p>
           <p>2학년에 군입대를 하여 20년도에 제대하고 롯데리아에서 알바를 좀하다가 21년도부터 다시 재학중입니다. </p>
           <p>이제와서 학점을 복구하고 있긴 하지만 대회나 학교경험이 없어서 조금 아쉽습니다. </p>
           <p>뒤늦게라도 조금 정신차리고 학교생활에 임하고 있습니다. <p>
-        description: | # this will include new lines to allow paragraphs</p>
-            부족하지만 최대한 열심히 해보겠습니다.!
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          부족하지만 최대한 열심히 해보겠습니다.!
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
